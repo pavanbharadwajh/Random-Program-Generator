@@ -1,16 +1,9 @@
 Course Project 
 ================
 
-The java/swing application to generate QR codes
 --------------------------------------------------------------------------------------------------------------------
 CS 474 Object Oriented Programming Language and Environment
 --------------------------------------------------------------------------------------------------------------------
-
-#Team Members:
-Sachin Mathew: smathe37@uic.edu
-Gautam: gautam5@uic.edu
-Pavan Bharadwaj Holenarasipura: pholen2@uic.edu
-Pratyush Bagaria: pbagar2@uic.edu
 
 #Content.
 Abstract
